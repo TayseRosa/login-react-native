@@ -10,8 +10,7 @@
 
 # ➡️ Demo
 <p align="center">
-  <img src="./src/assets/readme/tela1.png" width="100%" />
-  <img src="./src/assets/readme/tela2.png" width="100%" />
+  <img src="./src/assets/readme/telaLoginAnimada5.gif" width="50%" />
 </p>
 
 ---
