@@ -1,13 +1,5 @@
 <h1 align="center"> React Native - Tela de login com animação </h1>
 
-#Índice
-- [➡️ Demo](#️-demo)
-- [🛠 Sobre o projeto](#-sobre-o-projeto)
-- [🚀 Tecnologias utilizadas neste projeto](#-tecnologias-utilizadas-neste-projeto)
-- [📥 Como usar](#-como-usar)
-- [🚀 Autor](#-autor)
-  
-
 # ➡️ Demo
 <p align="center">
   <img src="./src/assets/readme/telaLoginAnimada5.gif" width="50%" />
